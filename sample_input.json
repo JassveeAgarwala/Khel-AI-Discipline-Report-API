@@ -1,0 +1,63 @@
+{
+  "innings_id": "innings-001",
+  "deliveries": [
+    {
+      "delivery_id": "ball-001",
+      "bowler": "Mitchell Starc",
+      "batter": "Rohit Sharma",
+      "over_number": 0,
+      "ball_number": 1,
+      "batter_runs": 0,
+      "extras": {}
+    },
+    {
+      "delivery_id": "ball-002",
+      "bowler": "Mitchell Starc",
+      "batter": "Rohit Sharma",
+      "over_number": 0,
+      "ball_number": 2,
+      "batter_runs": 0,
+      "extras": {
+        "wides": 1
+      }
+    },
+    {
+      "delivery_id": "ball-003",
+      "bowler": "Mitchell Starc",
+      "batter": "Rohit Sharma",
+      "over_number": 0,
+      "ball_number": 2,
+      "batter_runs": 0,
+      "extras": {}
+    },
+    {
+      "delivery_id": "ball-004",
+      "bowler": "Pat Cummins",
+      "batter": "Virat Kohli",
+      "over_number": 0,
+      "ball_number": 3,
+      "batter_runs": 0,
+      "extras": {
+        "noballs": 1
+      }
+    },
+    {
+      "delivery_id": "ball-005",
+      "bowler": "Pat Cummins",
+      "batter": "Virat Kohli",
+      "over_number": 0,
+      "ball_number": 3,
+      "batter_runs": 4,
+      "extras": {}
+    },
+    {
+      "delivery_id": "ball-006",
+      "bowler": "Pat Cummins",
+      "batter": "Virat Kohli",
+      "over_number": 0,
+      "ball_number": 4,
+      "batter_runs": 1,
+      "extras": {}
+    }
+  ]
+}
